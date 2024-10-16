@@ -1,9 +1,10 @@
 # Workshop SpringBoot3 JPA
 
 # Sobre o projeto
-Trata-se de uma aplicação web back-end desenvolvida durante o curso **Java COMPLETO Programação Orientada a Objetos** administrado pela [DevSuperior.](https://devsuperior.com.br "Site da DevSuperior")
+Trata-se de uma API que gerencia as vendas e informações importantes de um site comercial como: pedidos, produtos, pagamentos, usuários e categorias de produtos.
+Durante o desenvolvimento, foi trabalhado como criar um projeto Spring Boot do zero, como implementar um modelo de domínio, estrutura de camadas lógicas (resource, service, repository), configuração de um banco de dados que trabalha em memória, CRUD e tratamento de exceções.
 
-A aplicação consiste em um sistema para administração de venda de produtos e seus pedidos em uma empresa.
+Esse projeto foi desenvolvido durante o curso **Java COMPLETO Programação Orientada a Objetos** administrado pela [DevSuperior.](https://devsuperior.com.br "Site da DevSuperior")
 
 # Modelo conceitual
 ![Modelo Conceitual](https://github.com/rafaelsouzapinto/Workshop-springboot3-jpa/blob/main/imgs/modelo-conceitual.png)
