@@ -17,9 +17,14 @@ Esse projeto foi desenvolvido durante o curso **Java COMPLETO Programação Orie
 - H2
   
 ## Como executar a aplicação ✔
-Basta iniciar o spring na sua máquina.
-Para consultar os dados criados no Banco de dados H2, acessamos: **http://localhost:8080/h2-console/** passando as configurações definidas no arquivo **application-test.properties** da aplicação.
-Foi utilizado para o desenvolvimento Java 21, caso a versão seja diferente, será necessário alterar a versão no arquivo **pom.xml** da aplicação.
+- Clonar repositório git:
+```
+https://github.com/rafaelsouzapinto/Workshop-springboot3-jpa.git
+```
+- Iniciar o spring na sua máquina.
+
+Para consultar os dados criados no Banco de dados H2, acessamos: **http://localhost:8080/h2-console/** passando as configurações definidas no arquivo `application-test.properties` da aplicação.
+Foi utilizado para o desenvolvimento Java 21, caso a versão seja diferente, será necessário alterar a versão no arquivo ```pom.xml``` da aplicação.
 
 ## Autor ✏
 Antony Rafael Souza Pinto
